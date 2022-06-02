@@ -8,7 +8,7 @@
         "Modular"
     ],
     "website": "https://telegram.me/anonbd",
-    "repository": "https://github.com/xmanpro45/bot",
+    "repository": "https://github.com/xmanpro45/xman2",
     "env": {
         "START_MSG": {
             "description": "Enter your Bot Token Here.",
